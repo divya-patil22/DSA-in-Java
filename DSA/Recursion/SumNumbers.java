@@ -1,6 +1,6 @@
 
 public class SumNumbers {
-
+//Functional
     static int sum(int n) {
 
         if (n == 0) {
